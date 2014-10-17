@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wmo:home|Door43 (wmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wmo|d43-wmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wmo/archive/master.zip|d43-wmo.zip]]
+
+**Recent Changes**
+{{changes>ns = wmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wmo|Ethnologue data]]
+
